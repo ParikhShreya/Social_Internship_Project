@@ -1,11 +1,41 @@
+# Enterprise Resource & Skill Management Portal
 
-  # Enterprise Resource Management Portal
+A centralized workforce management platform that helps organizations track employee skills, optimize resource allocation, monitor bench strength, manage intern mentorship, and improve operational visibility.
 
-  This is a code bundle for Enterprise Resource Management Portal. The original project is available at https://www.figma.com/design/wE6lR77FyY2oPpTXn4WqAe/Enterprise-Resource-Management-Portal.
+## Features
 
-  ## Running the code
+* Employee Skill Management
+* Resource Allocation Dashboard
+* AI-Powered Best Fit Matchmaker
+* Bench Strength Analytics
+* Intern Mentorship Engine
+* Security Audit Visualizer
+* Role-Based Access Control
 
-  Run `npm i` to install the dependencies.
+## Tech Stack
 
-  Run `npm run dev` to start the development server.
-  
+* React + TypeScript
+* Vite
+* Tailwind CSS
+* Supabase
+* PostgreSQL
+
+## Getting Started
+
+```bash
+npm install
+npm run dev
+```
+
+## Environment Variables
+
+```env
+VITE_SUPABASE_URL=your_supabase_url
+VITE_SUPABASE_ANON_KEY=your_supabase_key
+```
+
+## Project Goal
+
+To replace manual spreadsheet-based workforce management with a centralized, data-driven platform that improves resource utilization, skill visibility, and employee development.
+
+ational Project

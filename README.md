@@ -34,7 +34,7 @@ VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_key
 ```
 
-luve website: 
+live website link: 
 
 ## Project Goal
 

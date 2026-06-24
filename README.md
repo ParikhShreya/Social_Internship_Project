@@ -34,6 +34,8 @@ VITE_SUPABASE_URL=your_supabase_url
 VITE_SUPABASE_ANON_KEY=your_supabase_key
 ```
 
+luve website: 
+
 ## Project Goal
 
 To replace manual spreadsheet-based workforce management with a centralized, data-driven platform that improves resource utilization, skill visibility, and employee development.
